@@ -1,1 +1,1 @@
-# E-commerce-Sales-Analysis-using-SQL
+# Ecommerce_Sales_Analysis_SQL.ipynb
